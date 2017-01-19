@@ -1,0 +1,9 @@
+c:\users\maspendi\documents\visual studio 2015\Projects\copytxt\copytxt\bin\Debug\copytxt.exe.config
+c:\users\maspendi\documents\visual studio 2015\Projects\copytxt\copytxt\bin\Debug\copytxt.exe
+c:\users\maspendi\documents\visual studio 2015\Projects\copytxt\copytxt\bin\Debug\copytxt.pdb
+c:\users\maspendi\documents\visual studio 2015\Projects\copytxt\copytxt\obj\Debug\copytxt.csprojResolveAssemblyReference.cache
+c:\users\maspendi\documents\visual studio 2015\Projects\copytxt\copytxt\obj\Debug\copytxt.Form1.resources
+c:\users\maspendi\documents\visual studio 2015\Projects\copytxt\copytxt\obj\Debug\copytxt.Properties.Resources.resources
+c:\users\maspendi\documents\visual studio 2015\Projects\copytxt\copytxt\obj\Debug\copytxt.csproj.GenerateResource.Cache
+c:\users\maspendi\documents\visual studio 2015\Projects\copytxt\copytxt\obj\Debug\copytxt.exe
+c:\users\maspendi\documents\visual studio 2015\Projects\copytxt\copytxt\obj\Debug\copytxt.pdb
